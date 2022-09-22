@@ -27,7 +27,6 @@ brew install --cask zoom
 brew install --cask sf-symbols
 brew install --cask 1password
 brew install --cask franz
-brew install --cask clipmenu
 
 
 # iOS Development
