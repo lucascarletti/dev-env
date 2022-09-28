@@ -1,2 +1,2 @@
 # dev-env
-Just a bunch of bash scripts I use to set up my dev environment.
+Scripts for setting up development environment in a new mac.
