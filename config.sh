@@ -14,12 +14,12 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 
 # Mac Applications
 
-mas install 497799835 # Xcode
+#mas install 497799835 # Xcode
 brew install --cask notion
 brew install --cask slack
 brew install --cask github
 brew install --cask gitify
-brew install --cask visual-studio
+brew install --cask visual-studio-code
 brew install --cask iterm2
 brew install --cask postman
 brew install --cask figma
@@ -27,6 +27,7 @@ brew install --cask zoom
 brew install --cask sf-symbols
 brew install --cask 1password
 brew install --cask franz
+brew install --cask sourcetree
 
 
 # iOS Development
